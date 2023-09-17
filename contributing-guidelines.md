@@ -8,7 +8,7 @@ GitHub is a widely used platform for version control and collaboration in softwa
 
 * Collaboration: GitHub provides an easy way for multiple users to work on a project simultaneously. Members of our organization are encouraged to collaborate on projects and contribute to each other's work.
 
-* Code Quality: All code in the repositories should be well-documented and adhere to best practices for code quality, such as proper use of version control, commenting, and testing.
+* Code Quality: All code in the repositories should be well-documented and adhere to best practices for code quality, such as proper use of version control, commenting, and testing. Please see [Google Style Guides](https://google.github.io/styleguide/) for more guidance.
 
 * Data Management: Sensitive or proprietary data should not be stored on GitHub. Instead, we should use alternative data storage solutions, such as secure servers or cloud storage services, and link to these resources in our repositories.
 
